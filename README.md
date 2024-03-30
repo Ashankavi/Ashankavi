@@ -8,11 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashankavi&label=Profile%20views&color=0e75b6&style=flat" alt="ashankavi" /> </p>
 
 - I’m studying at IDM.https://www.idmedu.lk/  
--  All of my projects are available at [HERE!](https://github.com/Ashankavi?tab=repositories)   
+- All of my projects are available at [HERE!](https://github.com/Ashankavi?tab=repositories)
+- 📫 How to reach me **ashankaviuh@gmail.com**
 - 🌱 I’m currently learning **React Native**
 - Fun fact I play games, Travel, Reading. 
-
-- 📫 How to reach me **ashankaviuh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
