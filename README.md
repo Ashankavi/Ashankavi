@@ -35,6 +35,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashankavi&theme=chartreuse-dark&border_radius=30.0" alt="ashankavi" /></p>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
