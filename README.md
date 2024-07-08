@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashankavi&style=for-the-badge&color=orange" alt="ashankavi"/>
+  <img src="https://komarev.com/ghpvc/?username=ashankavi&style=for-the-badge&color=blue" alt="ashankavi"/>
 </div>
 
 - I’m studying at IDM.https://www.idmedu.lk/  
@@ -53,5 +53,5 @@
 
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
