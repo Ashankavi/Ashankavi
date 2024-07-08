@@ -30,12 +30,21 @@
 
 <br/>
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashankavi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="ashankavi" /></p>
-</div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashankavi&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="ashankavi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashankavi&theme=chartreuse-dark&border_radius=30.0" alt="ashankavi" /></p>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ashankavi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ashankavi&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashankavi&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
