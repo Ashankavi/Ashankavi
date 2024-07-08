@@ -34,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashankavi&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="ashankavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashankavi&theme=chartreuse-dark&border_radius=30.0" alt="ashankavi" /></p>
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
