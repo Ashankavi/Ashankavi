@@ -5,7 +5,9 @@
 <h3 align="center">I’M CREATIVE FRONT-END WEB DEVELOPER & UI UX DESIGNER, I LOOK FORWARD TO IMPROVING MY SKILLS AT EVERY TURN.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashankavi&label=Profile%20views&color=0e75b6&style=flat" alt="ashankavi" /> </p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashankavi&style=for-the-badge&color=orange" alt="ashankavi"/>
+</div>
 
 - I’m studying at IDM.https://www.idmedu.lk/  
 - All of my projects are available at [HERE!](https://github.com/Ashankavi?tab=repositories)
@@ -34,10 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashankavi&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="ashankavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashankavi&theme=chartreuse-dark&border_radius=30.0" alt="ashankavi" /></p>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
