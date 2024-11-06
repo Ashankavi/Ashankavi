@@ -11,7 +11,7 @@
 
 - I’m studying at IDM.https://www.idmedu.lk/  
 - All of my projects are available at [HERE!](https://github.com/Ashankavi?tab=repositories)
-- My Personal Portfolio  [HERE!](https://ashankavi-portfolio.000webhostapp.com/)
+- My Personal Portfolio  [HERE!](https://shanuk.me/)
 - 📫 How to reach me **ashankaviuh@gmail.com**
 - 🌱 I’m currently learning **React Native**
 - Fun fact I play games, Travel, Reading. 
