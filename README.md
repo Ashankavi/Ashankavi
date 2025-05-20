@@ -164,12 +164,6 @@
 
 <br>
 
-<!-- GitHub Stats and Languages -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashankavi&show_icons=true&bg_color=0D1117&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashankavi&layout=compact&bg_color=0D1117&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&hide_border=false" />
-</div>
-
 <br>
 
 <!-- GitHub Activity Graph -->
