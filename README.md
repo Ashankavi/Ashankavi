@@ -14,7 +14,7 @@
 
 <!-- Visitor Counter with Neon Effect -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashankavi&style=for-the-badge&color=00FFFF&label=VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ashankavi&style=for-the-badge&color=00C5CC&label=VISITORS" alt="Profile Views" />
 </div>
 
 <!-- Futuristic Divider -->
