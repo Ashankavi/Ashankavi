@@ -151,9 +151,7 @@
 <!-- GitHub Stats with Neon Glow -->
 <div align="center">
   <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/216122180-c9253173-4f3f-42c5-bff2-7f0a321f28d7.png" width="30" alt="GitHub Stats" />
     <span style="color:#00FFFF;"> SYSTEM METRICS </span>
-    <img src="https://user-images.githubusercontent.com/74038190/216122180-c9253173-4f3f-42c5-bff2-7f0a321f28d7.png" width="30" alt="GitHub Stats" />
   </h2>
 </div>
 
