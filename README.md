@@ -179,11 +179,7 @@
 
 <!-- Animated Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashankavi/Ashankavi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashankavi/Ashankavi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashankavi/Ashankavi/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ashankavi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </div>
 
 <!-- Futuristic Footer -->
